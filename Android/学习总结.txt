@@ -1,4 +1,4 @@
-·搜索页面(cache,sugarORM,promise,concurrent,piccasso,多viewType,FlexboxLayout,http)
+·搜索页面(cache,sugarORM,promise,concurrent,piccasso,多viewType,FlexboxLayout,http,SpinnableString)
 
 ·标签套餐列表（AIDL）
 
