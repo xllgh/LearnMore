@@ -1,0 +1,17 @@
+·搜索页面(cache,sugarORM,promise,concurrent,piccasso,多viewType,FlexboxLayout,http)
+
+·标签套餐列表（AIDL）
+
+·大数据打点(重载，多态)
+
+·小红点（Dispatcher,比较方法）
+
+·卡券(多viewType)
+
+·组件(VLayout,RecylerView)
+
+·WlanLeftActivity(MVVM)
+
+·Dialog整改
+
+·bat,gradle,python（脚本）
